@@ -1,0 +1,17 @@
+improvement from the v1
+
+-bootstrap jquery for the form
+-my addition of email filter  
+-the popup form using java jquery
+-diary page
+
+
+
+->v3
+forget password
+
+----optional------
+-php include
+header css
+java footer
+
